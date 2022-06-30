@@ -1,6 +1,6 @@
 "root":{8 items
-"name":string"Number #0001updated"
-"symbol":string"NB"
+"name":string"Number #0001"
+"symbol":string"UPDATED"
 "description":string"Collection of 10 numbers on the blockchain. This is the number 1/10."
 "seller_fee_basis_points":int500
 "image":string"https://imgur.com/a/DwsawWl"
@@ -32,7 +32,7 @@
 "files":[1 item
 0:{2 items
 "uri":string"https://imgur.com/a/DwsawWl"
-"type":string"image/png"
+"type":string"image/jpg"
 }
 ]
 }
