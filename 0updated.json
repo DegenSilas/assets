@@ -1,20 +1,43 @@
-{
-    "name": "Number #0001",
-    "symbol": "NB",
-    "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
-    "seller_fee_basis_points": 500,
-    "image": "https://imgur.com/r0gYD1F",
-    "attributes": [
-        {"trait_type": "Layer-1", "value": "0"},
-        {"trait_type": "Layer-2", "value": "0"}, 
-        {"trait_type": "Layer-3", "value": "0"},
-        {"trait_type": "Layer-4", "value": "1"}
-    ],
-    "properties": {
-        "creators": [{"address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ", "share": 100}],
-        "files": [
-		{"uri": "https://imgur.com/r0gYD1F",
-		"type": "image/png"}]
-    },
-    "collection": {"name": "numbers", "family": "numbers"}
+"root":{8 items
+"name":string"Number #0001updated"
+"symbol":string"NB"
+"description":string"Collection of 10 numbers on the blockchain. This is the number 1/10."
+"seller_fee_basis_points":int500
+"image":string"https://imgur.com/a/DwsawWl"
+"attributes":[4 items
+0:{2 items
+"trait_type":string"Layer-1"
+"value":string"0"
+}
+1:{2 items
+"trait_type":string"Layer-2"
+"value":string"0"
+}
+2:{2 items
+"trait_type":string"Layer-3"
+"value":string"0"
+}
+3:{2 items
+"trait_type":string"Layer-4"
+"value":string"1"
+}
+]
+"properties":{2 items
+"creators":[1 item
+0:{2 items
+"address":string"6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ"
+"share":int100
+}
+]
+"files":[1 item
+0:{2 items
+"uri":string"https://imgur.com/a/DwsawWl"
+"type":string"image/png"
+}
+]
+}
+"collection":{2 items
+"name":string"numbers"
+"family":string"numbers"
+}
 }
